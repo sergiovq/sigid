@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="unknown"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>documentación de SIGID - 0.1</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint1" playOrder="1">
+      <navLabel>
+        <text>SIGID Un SIG de Incidencias delictivas</text>
+      </navLabel>
+      <content src="inicio.html" />
+    </navPoint>
+    <navPoint id="navPoint2" playOrder="2">
+      <navLabel>
+        <text>¿Qué es SIGID?</text>
+      </navLabel>
+      <content src="intro.html" />
+    </navPoint>
+  </navMap>
+</ncx>
